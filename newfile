@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 This is the new file which is created to make conflict 
 Here a=5 & b=10
+=======
+This is the new file which is created to make conflict
+Here a=5 & b=10
+
+>>>>>>> test
